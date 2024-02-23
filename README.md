@@ -1,4 +1,4 @@
-#Whats in this repository?
+# Whats in this repository?
 1. The source code - inputTester.py (If you want to take a look or make changes, though it isn't necessary to run the program).
 2. The executable - inputTester (Download this to run the program!)
 # Three important things:
