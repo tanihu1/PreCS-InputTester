@@ -15,11 +15,17 @@
 2. Place the instructor provided .out file in the same directory.
 3. Create a text file named: "input.txt" (The name must match!).
 4. Write the following lines into "input.txt":
-   line 1: -The name of your program-
-   line 2: -The name of the instructor's .out file-
-   line 3: "y" if your program requires command line args, "n" if it doesnt
-   line 4: If you've written "y" in line 3, insert arguments here, seperated by a space. If you've written "n" start writing the desired input for the program.
-   line 5+: From here onward start writing the desired input, each line will be given to the program at run-time.
+
+line 1: -The name of your program-
+
+line 2: -The name of the instructor's .out file-
+
+line 3: "y" if your program requires command line args, "n" if it doesnt
+
+line 4: If you've written "y" in line 3, insert arguments here, seperated by a space. If you've written "n" start writing the desired input for the program.
+
+line 5+: From here onward start writing the desired input, each line will be given to the program at run-time.
+
 5. Run the program by typing:
    ```
    ./inputTester
